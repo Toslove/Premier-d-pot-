@@ -1,0 +1,159 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+@font-face{
+    font-family: "Raleway";
+    src: url(./Fonts/Raleway-VariableFont_wght.woff);
+    src: url(./Fonts/Raleway-VariableFont_wght.ttf) format("truetype");
+}
+
+.tout{
+    border: groove;
+}
+
+.header{
+    text-align: center;
+    background-color: rgb(78,22,21);
+    padding-top: 5em;
+    padding-bottom: 2em;
+}
+
+#img1{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow:1 1 50px;
+    cursor:zoom-in
+}
+
+
+
+.Eugene{
+    color: white;
+    font-family: "Lato", sans-serif;
+}
+.Devops{
+    color: white;
+    font-family: "Lato", sans-serif;
+}
+
+
+
+.address {
+    
+    background-color: rgb(2,1,27);
+    padding-top:auto ;
+    padding-bottom:auto;
+    
+}
+#maps {
+    display: flex;
+   justify-content: left;
+   color: white;
+   text-decoration: none;
+   margin-left: 2em;
+   
+   
+   
+}
+#mail{
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+}
+
+#tel{
+    display: flex;
+    justify-content:flex-end;
+    color: white;
+    text-decoration: none;
+    margin-right: 2em;
+    
+}
+
+
+
+
+
+.BLOC1{
+    background-color: rgb(78,22,21);
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+    vertical-align: top;
+    padding-bottom: 30em;
+    
+    
+  
+}
+.Apropos, .Langues,.intérêts{
+    background-color: #dbc2a4;
+    margin-right:2em ;
+    text-indent: 1em;
+    font-family: "Lato", sans-serif;
+
+}
+
+.Present{
+    color: white;
+    text-indent: 3em;
+    margin-left: 1em;
+    margin-right: 1em;
+    font-family: "Raleway", serif;
+
+}
+
+.list{
+    color: white;
+    font-family: "Raleway", serif;
+}
+
+
+
+
+
+
+
+.BLOC2{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+    margin-left: 1em;
+
+}
+#expériences,#Diplôme,#compétences{
+    background-color: #dbc2a4;
+    padding-right: 15em;
+    font-family: "Lato", sans-serif;
+    
+    
+}
+
+
+
+.P1,.intitule, .lili{
+    font-family: "Raleway", serif;
+}
+
+
+
+
+.footer{
+    text-align: center;
+    background-color: rgb(78,22,21);
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+#img2, #img3, #img4{
+    width: 30px;
+    height: 30px;
+}
+
+
+.date{
+    color: white;
+    font-family: "Raleway", serif;
+}
